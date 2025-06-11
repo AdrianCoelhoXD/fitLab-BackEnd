@@ -20,6 +20,7 @@ Antes de começar, verifique se você tem instalado:
 ### **1. Clone o Repositório**  
 Abra o terminal bash e execute:  
 git clone https://github.com/AdrianCoelhoXD/fitlab-backend.git
+
 cd fitlab-backend 
 
 ### **2. Instale as Dependências**
