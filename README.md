@@ -25,7 +25,7 @@ cd fitlab-backend
 ### **2. Instale as Dependências**
 Terminal bash:
 npm install
-# ou, se usar Yarn:
+ou, se usar Yarn:
 yarn install 
 
 ### **3. Configure o Ambiente**
